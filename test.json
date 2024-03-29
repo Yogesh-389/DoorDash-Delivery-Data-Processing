@@ -1,0 +1,5 @@
+[
+{"id": 1, "status": "delivered", "amount": 20.5, "date": "2024-03-09"},
+{"id": 2, "status": "cancelled", "amount": 15.0, "date": "2024-03-09"},
+{"id": 3, "status": "order placed", "amount": 22.5, "date": "2024-03-09"}
+]
